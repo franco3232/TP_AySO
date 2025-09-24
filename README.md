@@ -1,3 +1,1 @@
-Alumno: Franco Peralta
-División: DIV315
-Año: 2025
+TP AySO - Franco Peralta, DIV315 - 2025. Comandos y datos del TP.
