@@ -1,2 +1,3 @@
-# TP_AySO
-Este es el TP 1 de la DIV 315 del 2025
+# TP AySO - Franco Peralta
+- DIV315 - UTN FRA - 2025
+- Historial de comandos en archivo .txt
