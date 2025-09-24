@@ -1,1 +1,5 @@
 model name	: AMD Ryzen 5 3600X 6-Core Processor
+
+Alumno: Franco Peralta
+División: DIV315
+Año: 2025
